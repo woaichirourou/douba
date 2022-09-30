@@ -1,0 +1,13 @@
+@import "https://at.alicdn.com/t/c/font_3678412_lcfkmgch40d.css";
+
+
+#header{
+    width: 100%;
+}
+
+#logo{
+    width: 1000px;
+    height: 1000px;
+background: #EDF4EC url("./assets/logo.png");
+
+}
